@@ -1,0 +1,45 @@
+{
+  "name": "Turtle Glasses Theme",
+  "displayName": "Turtle Glasses Theme",
+  "description": "Flavours for real eye care",
+  "version": "0.1.0",
+  "publisher": "SbiDev-447",
+  "author": {
+    "name": "SbiDev-447",
+    "url": "https://github.com/SbiDev-447"
+  },
+  "repository": "https://github.com/SbiDev-447/TurtleGlassesTheme",
+  "license": "MIT",
+  "icon": "assets/icon.jpg",
+  "keywords": [
+    "dark",
+    "light",
+    "minimal",
+    "contrast",
+    "theme",
+    "custom"
+  ],
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Turtle Glasses Light",
+        "uiTheme": "vs",
+        "path": "./themes/turtle-glasses-light.json"
+      },
+      {
+        "label": "Turtle Glasses Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/turtle-glasses-dark.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "@vscode/vsce": "^3.9.2"
+  }
+}
