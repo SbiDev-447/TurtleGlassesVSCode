@@ -1,30 +1,41 @@
 {
-  "name": "Turtle Glasses Theme",
+  "name": "turtle-glasses-theme",
   "displayName": "Turtle Glasses Theme",
   "description": "Flavours for real eye care",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "SbiDev-447",
   "author": {
     "name": "SbiDev-447",
     "url": "https://github.com/SbiDev-447"
   },
   "repository": "https://github.com/SbiDev-447/TurtleGlassesTheme",
+  "homepage": "https://github.com/SbiDev-447/TurtleGlassesTheme",
+  "bugs": "https://github.com/SbiDev-447/TurtleGlassesTheme/issues",
   "license": "MIT",
   "icon": "assets/icon.jpg",
+  "galleryBanner": {
+    "color": "#06080f",
+    "theme": "dark"
+  },
   "keywords": [
+    "turtle",
+    "glasses",
     "dark",
     "light",
     "minimal",
     "contrast",
+    "eye-care",
+    "comfort",
     "theme",
-    "custom"
+    "custom",
+    "vscodium"
+  ],
+  "categories": [
+    "Themes"
   ],
   "engines": {
     "vscode": "^1.77.0"
   },
-  "categories": [
-    "Themes"
-  ],
   "contributes": {
     "themes": [
       {
@@ -39,7 +50,12 @@
       }
     ]
   },
-  "dependencies": {
+  "scripts": {
+    "package": "vsce package -o turtle-glasses-theme.vsix",
+    "publish": "vsce publish",
+    "build": "vsce package -o turtle-glasses-theme.vsix"
+  },
+  "devDependencies": {
     "@vscode/vsce": "^3.9.2"
   }
 }
