@@ -3,14 +3,14 @@
   "displayName": "Turtle Glasses Theme",
   "description": "Flavours for real eye care",
   "version": "0.2.0",
-  "publisher": "SbiDev-447",
+  "publisher": "SbiDev",
   "author": {
-    "name": "SbiDev-447",
+    "name": "SbiDev",
     "url": "https://github.com/SbiDev-447"
   },
-  "repository": "https://github.com/SbiDev-447/TurtleGlassesTheme",
-  "homepage": "https://github.com/SbiDev-447/TurtleGlassesTheme",
-  "bugs": "https://github.com/SbiDev-447/TurtleGlassesTheme/issues",
+  "repository": "https://github.com/SbiDev-447/TurtleGlassesVSCode",
+  "homepage": "https://github.com/SbiDev-447/TurtleGlassesVSCode",
+  "bugs": "https://github.com/SbiDev-447/TurtleGlassesVSCode/issues",
   "license": "MIT",
   "icon": "assets/icon.jpg",
   "galleryBanner": {
