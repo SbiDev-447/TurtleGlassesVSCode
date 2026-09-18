@@ -548,10 +548,8 @@
     {
       "name": "Constant",
       "scope": [
-        "constant.numeric",
         "constant.language",
         "support.constant",
-        "constant.character",
         "constant.escape"
       ],
       "settings": {

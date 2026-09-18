@@ -292,7 +292,7 @@
     "terminal.ansiGreen": "#b7cc85",
     "terminal.ansiMagenta": "#ff8dd7",
     "terminal.ansiRed": "#cb7c94",
-    "terminal.ansiWhite": "#f3f6f9",
+    "terminal.ansiWhite": "#96A2B0",
     "terminal.ansiYellow": "#ffe066",
     "terminal.background": "#06080f",
     "terminal.border": "#232A40",
@@ -548,10 +548,8 @@
     {
       "name": "Constant",
       "scope": [
-        "constant.numeric",
         "constant.language",
         "support.constant",
-        "constant.character",
         "constant.escape"
       ],
       "settings": {
