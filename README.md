@@ -52,8 +52,8 @@ The theme is not yet available on the Visual Studio Marketplace. For VS Code, in
 ```bash
 git clone https://github.com/SbiDev-447/TurtleGlassesVSCode.git
 cd TurtleGlassesVSCode
-npm install
-npm run package   # produces turtle-glasses-theme.vsix
+pnpm install
+pnpm run package   # produces turtle-glasses-theme.vsix
 ```
 
 ## 🎨 Palette
