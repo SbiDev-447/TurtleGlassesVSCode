@@ -6,6 +6,7 @@
 - Dark theme: terminal normal white (`terminal.ansiWhite`) is now a muted gray, distinguishable from bright white in terminal output
 - Removed raw HTML from the README so it renders correctly in the extension gallery
 - Removed stale scopes from the generic constant rule (numbers and characters keep their dedicated colors)
+- Excluded pnpm lock and workspace files from the published VSIX (smaller package)
 
 ### Changed
 - Added palette colors (54 keys per theme) for surfaces that previously used VS Code defaults: command center, prominent/compact status bar items, status bar warning and error states, input validation, minimap scrollbar, diff editor lines and overview, peek view, editor line highlight and link active state, indent guides, dimmed line numbers, plus global error and icon foregrounds
