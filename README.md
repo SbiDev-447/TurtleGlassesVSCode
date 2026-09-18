@@ -1,6 +1,6 @@
 <div align="center">
 
-![Turtle Glasses](assets/icon.jpg)
+![Turtle Glasses](./assets/icon.jpg)
 
 # 🐢 Turtle Glasses Theme
 
@@ -16,8 +16,8 @@ A carefully crafted color theme for Visual Studio Code and VSCodium, designed wi
 
 ## 🖼️ Previews
 
-![Turtle Glasses Dark](assets/screenshot-dark.png)
-![Turtle Glasses Light](assets/screenshot-light.png)
+![Turtle Glasses Dark](./assets/screenshot-dark.png)
+![Turtle Glasses Light](./assets/screenshot-light.png)
 
 ## ✨ Features
 
