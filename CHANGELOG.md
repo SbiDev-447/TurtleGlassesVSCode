@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3] - 2026-09-17
+
+### Docs
+- Added color swatches to the palette tables in the README
+- Normalized relative image paths so gallery images render correctly
+- Manual install section now links to the GitHub Releases page
+
 ## [0.2.2] - 2026-09-17
 
 ### Changed
