@@ -6,7 +6,8 @@
 
 *Flavours for real eye care* 👓
 
-[![Version](https://img.shields.io/badge/version-0.2.1-blue)]()
+[![Open VSX Version](https://img.shields.io/open-vsx/v/SbiDev/turtle-glasses-theme?color=blue&label=Open%20VSX)](https://open-vsx.org/extension/SbiDev/turtle-glasses-theme)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/SbiDev/turtle-glasses-theme?color=blue&label=Downloads)](https://open-vsx.org/extension/SbiDev/turtle-glasses-theme)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 </div>
@@ -29,18 +30,22 @@ A carefully crafted color theme for Visual Studio Code and VSCodium, designed wi
 
 ## 📦 Installation
 
-### Visual Studio Code (Marketplace)
+### VSCodium & open-source forks (Open VSX)
+
+The theme is published on [Open VSX](https://open-vsx.org/extension/SbiDev/turtle-glasses-theme), the default extension registry for VSCodium and other open-source VS Code forks.
 
 1. Open the **Extensions** view (`Ctrl+Shift+X`).
 2. Search for **Turtle Glasses Theme**.
 3. Click **Install**.
 4. Press `Ctrl+K Ctrl+T` and select **Turtle Glasses Dark** or **Turtle Glasses Light**.
 
-### VSCodium / Manual (VSIX)
+### Visual Studio Code (manual VSIX)
 
-1. Download the `.vsix` file from the [Releases](https://github.com/SbiDev-447/TurtleGlassesVSCode/releases) page.
-2. In VS Code / VSCodium, go to **Extensions** → `...` menu → **Install from VSIX...**.
-3. Select the downloaded file and reload the window.
+The theme is not yet available on the Visual Studio Marketplace. For VS Code, install the VSIX manually:
+
+1. Build the `.vsix` (see *From source* below).
+2. Open VS Code → **Extensions** → `...` menu → **Install from VSIX...**.
+3. Select the file and reload the window.
 
 ### From source
 
