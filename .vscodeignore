@@ -1,0 +1,20 @@
+# Version control
+.git/**
+.gitignore
+
+# Local orchestration / tooling caches (never ship)
+.atl/**
+
+# Node
+node_modules/**
+package-lock.json
+
+# Build output
+*.vsix
+*.log
+
+# IDE
+.vscode/**
+
+# Internal planning artifacts
+odd/**
