@@ -60,25 +60,25 @@ pnpm run package   # produces turtle-glasses-theme.vsix
 
 ### Dark
 
-| Token | Color |
-| ----- | ----- |
-| Editor background | `#06080f` |
-| Editor foreground | `#f3f6f9` |
-| Cursor | `#e0c15a` |
-| Selection | `#263356` |
-| Line numbers | `#3a4a75` |
-| Status bar | `#263356` |
+| Token | Color | Swatch |
+| ----- | ----- | ------ |
+| Editor background | `#06080f` | ![#06080f](https://img.shields.io/badge/%2306080f-06080f) |
+| Editor foreground | `#f3f6f9` | ![#f3f6f9](https://img.shields.io/badge/%23f3f6f9-f3f6f9) |
+| Cursor | `#e0c15a` | ![#e0c15a](https://img.shields.io/badge/%23e0c15a-e0c15a) |
+| Selection | `#263356` | ![#263356](https://img.shields.io/badge/%23263356-263356) |
+| Line numbers | `#3a4a75` | ![#3a4a75](https://img.shields.io/badge/%233a4a75-3a4a75) |
+| Status bar | `#263356` | ![#263356](https://img.shields.io/badge/%23263356-263356) |
 
 ### Light
 
-| Token | Color |
-| ----- | ----- |
-| Editor background | `#f5efe6` |
-| Editor foreground | `#2a2a2a` |
-| Cursor | `#b8860b` |
-| Selection | `#2a3d5c` |
-| Line numbers | `#b8b0a0` |
-| Status bar | `#2a3d5c` |
+| Token | Color | Swatch |
+| ----- | ----- | ------ |
+| Editor background | `#f5efe6` | ![#f5efe6](https://img.shields.io/badge/%23f5efe6-f5efe6) |
+| Editor foreground | `#2a2a2a` | ![#2a2a2a](https://img.shields.io/badge/%232a2a2a-2a2a2a) |
+| Cursor | `#b8860b` | ![#b8860b](https://img.shields.io/badge/%23b8860b-b8860b) |
+| Selection | `#2a3d5c` | ![#2a3d5c](https://img.shields.io/badge/%232a3d5c-2a3d5c) |
+| Line numbers | `#b8b0a0` | ![#b8b0a0](https://img.shields.io/badge/%23b8b0a0-b8b0a0) |
+| Status bar | `#2a3d5c` | ![#2a3d5c](https://img.shields.io/badge/%232a3d5c-2a3d5c) |
 
 ## 👀 Recommended settings
 
