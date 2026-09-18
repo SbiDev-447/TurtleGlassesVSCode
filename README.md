@@ -6,7 +6,7 @@
 
 *Flavours for real eye care* 👓
 
-[![Version](https://img.shields.io/badge/version-0.2.0-blue)]()
+[![Version](https://img.shields.io/badge/version-0.2.1-blue)]()
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 </div>

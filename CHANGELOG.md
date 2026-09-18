@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.2.1] - 2026-09-17
+
+### Fixed
+- Added `.vscodeignore` so internal files (`.atl/` cache, `.gitignore`) are excluded from the published VSIX
+
 ## [0.2.0] - 2026-09-09
 
 ### Added
