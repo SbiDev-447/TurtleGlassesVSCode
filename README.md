@@ -43,7 +43,7 @@ The theme is published on [Open VSX](https://open-vsx.org/extension/SbiDev/turtl
 
 The theme is not yet available on the Visual Studio Marketplace. For VS Code, install the VSIX manually:
 
-1. Build the `.vsix` (see *From source* below).
+1. Download the latest `.vsix` from the [GitHub Releases](https://github.com/SbiDev-447/TurtleGlassesVSCode/releases) page.
 2. Open VS Code → **Extensions** → `...` menu → **Install from VSIX...**.
 3. Select the file and reload the window.
 

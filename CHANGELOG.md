@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.2.2] - 2026-09-17
+
+### Changed
+- Migrated to pnpm as the project package manager
+- First GitHub Release with a prebuilt VSIX asset
+
 ## [0.2.1] - 2026-09-17
 
 ### Fixed
