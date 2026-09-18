@@ -1,5 +1,3 @@
-<div align="center">
-
 ![Turtle Glasses](./assets/icon.jpg)
 
 # 🐢 Turtle Glasses Theme
@@ -9,8 +7,6 @@
 [![Open VSX Version](https://img.shields.io/open-vsx/v/SbiDev/turtle-glasses-theme?color=blue&label=Open%20VSX)](https://open-vsx.org/extension/SbiDev/turtle-glasses-theme)
 [![Open VSX Downloads](https://img.shields.io/open-vsx/dt/SbiDev/turtle-glasses-theme?color=blue&label=Downloads)](https://open-vsx.org/extension/SbiDev/turtle-glasses-theme)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
-</div>
 
 A carefully crafted color theme for Visual Studio Code and VSCodium, designed with eye comfort in mind. Inspired by the calmness of turtles and the clarity of well-made glasses.
 
@@ -110,6 +106,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<div align="center">
 Made with ❤️ and 🐢 by [SbiDev-447](https://github.com/SbiDev-447)
-</div>
