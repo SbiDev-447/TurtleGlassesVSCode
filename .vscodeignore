@@ -17,6 +17,7 @@ pnpm-workspace.yaml
 
 # IDE
 .vscode/**
+CHANGELOG.md
 
 # Internal planning artifacts
 odd/**
